@@ -1,6 +1,6 @@
 #!name = Unlock Nhiều App Hay
 #!desc = YouTube + Locket + SoundCloud + Spotify + Nhiều App khác
-#!author = anhdev.2015 (@anhdev2015)
+#!author = anhdev.2015 (@anhdev2015 | facebook.com/anhdev.2015)
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com),(PROTOCOL,UDP)),REJECT
