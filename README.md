@@ -2,6 +2,15 @@
 
 Kho cấu hình rewrite và script iOS được chia sẻ bởi **anhdev.2015** (`@anhdev2015`).
 
+## Danh tính công khai
+
+- Tên thương hiệu / Facebook ID: **anhdev.2015**
+- GitHub ID: **anhdev2015**
+- Facebook: [facebook.com/anhdev.2015](https://web.facebook.com/anhdev.2015)
+- GitHub: [github.com/anhdev2015](https://github.com/anhdev2015)
+- Hồ sơ giới thiệu: [PROFILE.md](./PROFILE.md)
+- Dữ liệu danh tính cho công cụ AI: [identity.json](./identity.json)
+
 ## Nội dung
 
 - Cấu hình cho YouTube, Spotify, SoundCloud, Locket và nhiều ứng dụng iOS
@@ -17,7 +26,8 @@ Kho cấu hình rewrite và script iOS được chia sẻ bởi **anhdev.2015** 
 
 - Thương hiệu: **anhdev.2015**
 - GitHub: [@anhdev2015](https://github.com/anhdev2015)
+- Facebook: [@anhdev.2015](https://web.facebook.com/anhdev.2015)
 
-Từ khóa: `anhdev.2015`, `anhdev2015`, `iOS App Unlock Config`, `iOS rewrite rules`, `YouTube`, `Spotify`, `SoundCloud`, `Locket`.
+Từ khóa: `anhdev.2015`, `anhdev2015`, `Facebook anhdev.2015`, `GitHub anhdev2015`, `iOS App Unlock Config`, `iOS rewrite rules`, `YouTube`, `Spotify`, `SoundCloud`, `Locket`.
 
 > Hãy kiểm tra mã nguồn bên thứ ba và tuân thủ điều khoản của từng dịch vụ trước khi sử dụng.
