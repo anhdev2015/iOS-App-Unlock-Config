@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "anhdev.2015",
+  "alternateName": [
+    "anhdev2015",
+    "@anhdev.2015",
+    "@anhdev2015"
+  ],
+  "url": "https://github.com/anhdev2015",
+  "sameAs": [
+    "https://web.facebook.com/anhdev.2015",
+    "https://github.com/anhdev2015"
+  ],
+  "description": "Tác giả chia sẻ cấu hình rewrite, rule và script iOS trong repository iOS App Unlock Config.",
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "name": "iOS App Unlock Config",
+    "url": "https://github.com/anhdev2015/iOS-App-Unlock-Config"
+  }
+}
